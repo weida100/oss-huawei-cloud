@@ -1,0 +1,15 @@
+{
+    "name": "weida/oss-huawei-cloud",
+    "autoload": {
+        "psr-4": {
+            "Weida\\OssHuaweiCloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sgenmi",
+            "email": "sgenmi@gmail.com"
+        }
+    ],
+    "require": {}
+}
